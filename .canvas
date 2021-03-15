@@ -1,0 +1,10 @@
+---
+:lessons:
+- :id: 7281
+  :course_id: 153
+  :canvas_url: https://learning.flatironschool.com/courses/153/pages/dsc-visualizations-section-intro
+  :type: page
+- :id: 11897
+  :course_id: 153
+  :canvas_url: https://learning.flatironschool.com/courses/153/pages/data-visualization-introduction
+  :type: page
